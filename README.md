@@ -8,7 +8,7 @@
 - 📫 How to reach me: mr.aplodhi@gmail.com
 <h2>Connect with me:</h2>
   <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg "  width=80" height="60"
+         <img alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg "  width=80" height="60"
        >
       </a>
        <a href="https://www.qries.com/">
@@ -24,4 +24,8 @@
        >
       </a>
       <br/>
-  <h2>Languages and Tools:</h2>    
+  <h2>Languages and Tools:</h2>   
+    <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
+       >
+      </a>
