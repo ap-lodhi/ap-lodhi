@@ -28,11 +28,11 @@
     <a href="https://getbootstrap.com/">
          <img alt="boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg "  width=80" height="60"
        >
-           <a href="https://www.qries.com/">
+           <a href="https://www.w3schools.com/css/">
          <img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "  width=80" height="60"
        >
-      <a href="https://www.qries.com/">
-         <img alt="boot" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
+      <a href="https://www.w3.org/html/">
+         <img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  width=80" height="60"
        >
            <a href="https://www.qries.com/">
          <img alt="boot" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
