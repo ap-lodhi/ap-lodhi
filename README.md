@@ -26,6 +26,6 @@
       <br/>
   <h2>Languages and Tools:</h2>   
     <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
+         <img alt="boot" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
        >
       </a>
