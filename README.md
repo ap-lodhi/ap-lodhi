@@ -20,7 +20,7 @@
        >
       </a>
        <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
+         <img alt="insta" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
        >
       </a>
       <br/>
