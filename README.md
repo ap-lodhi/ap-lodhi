@@ -12,7 +12,7 @@
        >
       </a>
        <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width=80" height="60"
+         <img alt="linked" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width=80" height="60"
        >
       </a>
        <a href="https://www.qries.com/">
