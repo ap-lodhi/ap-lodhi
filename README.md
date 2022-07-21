@@ -25,11 +25,11 @@
       </a>
       <br/>
   <h2>Languages and Tools:</h2>   
-    <a href="https://www.qries.com/">
+    <a href="https://getbootstrap.com/">
          <img alt="boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg "  width=80" height="60"
        >
            <a href="https://www.qries.com/">
-         <img alt="boot" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
+         <img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "  width=80" height="60"
        >
       <a href="https://www.qries.com/">
          <img alt="boot" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
