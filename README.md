@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Anil Patel </h1>
+<h1 >Hi 👋, I'm Anil Patel </h1>
 <h3>A passionate Full Stack developer from India</h3>
 
 - 🌱 I’m currently learning  MERN Stack 
@@ -35,12 +35,12 @@
          <img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  width=80" height="60"
        >
            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-         <img alt="boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width=80" height="60"
+         <img alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width=80" height="60"
        >
-            <a href="https://www.qries.com/">
-         <img alt="boot" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
+            <a href="https://reactjs.org/">
+         <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width=80" height="60"
        >
            <a href="https://www.qries.com/">
-         <img alt="boot" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
+         <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width=80" height="60"
        >
       </a>
