@@ -44,7 +44,7 @@
        >
       </a>
        <a href="https://www.mongodb.com/">
-         <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width=80" height="60"
+         <img alt="redux" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)"  width=80" height="60"
        >
         </a>
         
