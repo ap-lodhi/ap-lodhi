@@ -18,7 +18,7 @@
          <img alt="insta" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
        >
       </a>
-        <a href=" https://twitter.com/anilPat40475883?t=FCw5VRR831izK-LlQuOMIg&s=08">
+        <a href="https://twitter.com/anilPat40475883?t=FCw5VRR831izK-LlQuOMIg&s=08">
          <img alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"   width=80" height="60"
        >
       </a>
