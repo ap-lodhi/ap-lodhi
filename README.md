@@ -8,9 +8,7 @@
 - 📫 How to reach me: mr.aplodhi@gmail.com
 <h2>Connect with me:</h2>
   <a href=" https://twitter.com/anilPat40475883?t=FCw5VRR831izK-LlQuOMIg&s=08">
-         <img alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg "  width=80" height="60"
-       >
-      </a>
+         <img alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg "  width=80" height="60" > </a>
        <a href="https://www.linkedin.com/in/anil-patel-0a8015182/">
          <img alt="linked" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width=80" height="60"
        >
