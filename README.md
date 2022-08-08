@@ -51,7 +51,10 @@
          <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  width=80" height="60"
        >
         </a>
-             <br/>
+         <br/>
+              <br/>
+              <br/> 
+              <br/>
              <img src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&&show_icons=true&lite_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="perfomance" >
         
         
