@@ -9,9 +9,7 @@
 <h2>Connect with me:</h2>
        <a href="https://www.linkedin.com/in/anil-patel-0a8015182/">
          <img alt="linked" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width=80" height="60"
-       >
-      </a>
-    
+       > </a> 
        <a href="https://www.facebook.com/profile.php?id=100045785071784">
          <img alt="fb" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg "  width=80" height="60"
        >
