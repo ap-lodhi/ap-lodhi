@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: mr.aplodhi@gmail.com
 <h2>Connect with me:</h2>
-  <a href="https://www.qries.com/">
+  <a href=" https://twitter.com/anilPat40475883?t=FCw5VRR831izK-LlQuOMIg&s=08">
          <img alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg "  width=80" height="60"
        >
       </a>
@@ -15,11 +15,11 @@
          <img alt="linked" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width=80" height="60"
        >
       </a>
-       <a href="https://www.qries.com/">
+       <a href="https://www.facebook.com/profile.php?id=100045785071784">
          <img alt="fb" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg "  width=80" height="60"
        >
       </a>
-       <a href="https://www.qries.com/">
+       <a href="https://www.instagram.com/mr.aplodhi_/">
          <img alt="insta" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
        >
       </a>
