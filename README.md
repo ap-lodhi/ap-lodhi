@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  MERN Stack 
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at: https://ap-lodhi.github.io/portfolio/
 
 - 📫 How to reach me: mr.aplodhi@gmail.com
 <h2>Connect with me:</h2>
