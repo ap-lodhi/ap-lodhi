@@ -1,9 +1,11 @@
 <h1 >Hi 👋, I'm Anil Patel </h1>
-<h3>A passionate Full Stack developer from India</h3>
+<h3>A passionate Full Stack developer from India</h3> 
 
-- 🌱 I’m currently learning  MERN Stack 
+- 🌱 I’m currently learning  MERN Stack .
 
-- 👨‍💻 All of my projects are available at: https://ap-lodhi.github.io/portfolio/
+- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+
+- 👨‍💻 All of my projects are available at: https://anil-portfolio.netlify.app/
 
 - 📫 How to reach me: mr.aplodhi@gmail.com
 <h2>Connect with me:</h2>
