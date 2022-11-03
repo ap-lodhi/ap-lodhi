@@ -70,7 +70,7 @@ class Skills extends SoftwareDeveloper {
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=ap-lodhi&theme=minimal" alt="activitygraph" /> 
 <br />
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashkmt&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ap-lodhi&theme=vue" alt="summarycard"/> </p>
 <hr />
 
             
