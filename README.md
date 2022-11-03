@@ -33,9 +33,7 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
 </p>
 
@@ -52,69 +50,21 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" />
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </p>
-- 🌱 I’m currently learning  MERN Stack .
 
-- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anil-patel-0a8015182/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a title="mr.aplodhi@gmail.com" href="mailto:akashkmt963@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://wa.me/919174515049" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
+  <a href=" https://anil-portfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+</p>
 
-- 👨‍💻 All of my projects are available at: https://anil-portfolio.netlify.app/
 
-- 📫 How to reach me: mr.aplodhi@gmail.com
-<h2>Connect with me:</h2>
-       <a href="https://www.linkedin.com/in/anil-patel-0a8015182/">
-         <img alt="linked" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width=80" height="60"
-       > </a> 
-       <a href="https://www.facebook.com/profile.php?id=100045785071784">
-         <img alt="fb" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg "  width=80" height="60"
-       >
-      </a>
-       <a href="https://www.instagram.com/mr.aplodhi_/">
-         <img alt="insta" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "  width=80" height="60"
-       >
-      </a>
-        <a href="https://twitter.com/anilPat40475883?t=FCw5VRR831izK-LlQuOMIg&s=08">
-         <img alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"   width=80" height="60"
-       >
-      </a>
-      <br/>
-  <h2>Languages and Tools:</h2>   
-    <a href="https://getbootstrap.com/">
-         <img alt="boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg "  width=80" height="60"
-       >
-           <a href="https://www.w3schools.com/css/">
-         <img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width=80" height="60"
-       >
-      <a href="https://www.w3.org/html/">
-         <img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  width=80" height="60"
-       >
-           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-         <img alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width=80" height="60"
-       >
-            <a href="https://reactjs.org/">
-         <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width=80" height="60"
-       >
-           <a href="https://www.qries.com/">
-         <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width=80" height="60"
-       >
-      </a>
-       <a href="https://www.mongodb.com/">
-         <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  width=80" height="60"
-       >
-        </a>
-         <a href="https://www.mongodb.com/">
-         <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  width=80" height="60"
-       >
-        </a>
-         <br/>
-              <br/>
-              <br/> 
-              <br/>
-             <img src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&&show_icons=true&lite_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="perfomance" >
+             <!-- <img src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&&show_icons=true&lite_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="perfomance" >
+         -->
         
         
