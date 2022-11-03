@@ -62,9 +62,13 @@ class Skills extends SoftwareDeveloper {
   <a href="https://wa.me/919174515049" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
   <a href=" https://anil-portfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
+<br/>
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&show_icons=true&theme=gradient" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-lodhi&layout=compact" />
+</div>
 
 
-             <!-- <img src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&&show_icons=true&lite_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="perfomance" >
-         -->
+            
         
         
