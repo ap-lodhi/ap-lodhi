@@ -63,6 +63,9 @@ class Skills extends SoftwareDeveloper {
   <a href="https://anil-portfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br/>
+ 
+ <h2>📊 Github Stats</h2> <h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
+
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-lodhi&layout=compact" />
