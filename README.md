@@ -67,7 +67,9 @@ class Skills extends SoftwareDeveloper {
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-lodhi&layout=compact" />
 </div>
-
+<br />
+<img src="https://activity-graph.herokuapp.com/graph?username=ap-lodhi&theme=minimal" alt="activitygraph" /> 
+<br />
 
             
         
