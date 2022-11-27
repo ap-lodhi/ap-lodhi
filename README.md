@@ -67,7 +67,7 @@ class Skills extends SoftwareDeveloper {
  <h2>📊 Github Stats</h2> <h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&show_icons=true&theme=gradient" />
+  <img width="50%" margin="auto"  src="https://github-readme-stats.vercel.app/api?username=ap-lodhi&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-lodhi&layout=compact" />
   <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ap-lodhi" />
 </div>
