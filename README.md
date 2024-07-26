@@ -14,7 +14,7 @@ class Bio extends SoftwareDeveloper {
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'C#', 'HTML', 'CSS', 'React', 'Redux' ,'Asp Dot Net Core', 'Asp Dot Net MVC'];
+  frontend  = ['JavaScript', 'C#', 'HTML', 'CSS', 'React', 'Redux' ,'Asp Dot Net Core','Asp Dot Net MVC'];
   backend = ['NodeJs', 'ExpressJs', 'MongoDB', 'MYSQL','Ms Sql Server'];
   ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', ];
 }
