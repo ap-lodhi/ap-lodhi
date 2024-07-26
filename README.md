@@ -9,13 +9,13 @@
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Anil Patel';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
+  title    = 'Software Engineer' || 'Full Stack Web Developer' || Dot Net Developer;
   location = 'Madhya Pradesh, India';
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+  frontend  = ['JavaScript', 'C#', 'HTML', 'CSS', 'React', 'Redux' ,'Asp Dot Net Core', 'Asp Dot Net MVC'];
+  backend = ['NodeJs', 'ExpressJs', 'MongoDB', 'MYSQL',Ms Sql Server];
   ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', ];
 }
 ```
